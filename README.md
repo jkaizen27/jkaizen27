@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Julio Kaizen,
+### Hi there 👋 I'm Julio Escalera,
 
 An aspiring data science student looking to learn much as possible about data, programming, and technology in general.
 
